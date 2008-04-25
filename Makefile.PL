@@ -5,7 +5,7 @@ use warnings;
 use ExtUtils::MakeMaker;
 
 WriteMakefile(
-	NAME => 'IO::Socket::INET::Daemon',
-	VERSION => 'lib/IO/Socket/INET/Daemon.pm',
+	NAME => 'IO::Socket::INET::Host',
+	VERSION => 'lib/IO/Socket/INET/Host.pm',
 );
 
